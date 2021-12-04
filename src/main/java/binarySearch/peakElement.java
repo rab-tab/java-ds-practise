@@ -11,7 +11,6 @@ public class peakElement {
             System.out.println("No peak elem found");
         }
         // peak elem - greater than both the neighbours
-
     }
 
     public static int findPeakElem(int arr[],int low,int high)
